@@ -2,7 +2,7 @@
 
 
 <div align="center">  
-<a href="www.linkedin.com/in/gabrielthums" target="_blank"><img src="https://img.shields.io/badge/%40-Linkedin-blue"</a>
+<a href="https://www.linkedin.com/in/gabriel-thums-780522239/" target="_blank"><img src="https://img.shields.io/badge/%40-Linkedin-blue"</a>
 </div> 
  
 ### Main skills:
